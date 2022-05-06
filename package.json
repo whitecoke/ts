@@ -19,6 +19,7 @@
   "homepage": "https://github.com/whitecoke/ts#readme",
   "devDependencies": {
     "@types/jest": "^27.5.0",
-    "jest": "^28.0.3"
+    "jest": "^28.0.3",
+    "ts-jest": "^28.0.1"
   }
 }
