@@ -67,3 +67,6 @@
     }
 
 ## app.ts에 브레이크 포인트 걸고 F5 gogo
+
+# Typescript Jest를 이용한 테스팅 환경 구성
+## https://jforj.tistory.com/252
