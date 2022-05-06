@@ -4,7 +4,7 @@
   "description": "타입스크립트 학습을 위한 repo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/whitecoke/ts/issues"
   },
-  "homepage": "https://github.com/whitecoke/ts#readme"
+  "homepage": "https://github.com/whitecoke/ts#readme",
+  "devDependencies": {
+    "@types/jest": "^27.5.0",
+    "jest": "^28.0.3"
+  }
 }
